@@ -1,0 +1,6 @@
+[submodule "storm/storm-core/src"]
+	path = storm/storm-core/src
+	url = git@github.com:gdu3/storm.git
+[submodule "storm/examples/storm-starter/src"]
+	path = storm/examples/storm-starter/src
+	url = git@github.com:gdu3/strom_topo.git
