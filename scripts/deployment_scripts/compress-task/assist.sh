@@ -1,0 +1,2 @@
+cd compress
+./run.sh
