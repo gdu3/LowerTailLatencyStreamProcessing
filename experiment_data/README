@@ -1,0 +1,2 @@
+To get experiment data (raw log files) -> git clone git@github.com:gdu3/experiment_data.git
+And remove one level of "experiment_data" Directory structure.
